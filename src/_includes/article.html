@@ -13,6 +13,7 @@
     {% include "components/navbar.html" %}
     <div class="article-wrapper">
       <h1>{{title}}</h1>
+      <h2>{{date | postDate}}</h2>
       <article class="paragraph text-lg">{{ content }}</article>
     </div>
     {% include "components/footer.html" %}
