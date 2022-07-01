@@ -1,9 +1,6 @@
-Personal website developed using a static site generator (Eleventy)
+## Introduction
 
-## Details
-
-- Toggleable dark theme
-- SASS CSS preprocessing
+What begun as a simple lab exercise to try out different static site generators is now my personal website developed using the Eleventy static site generator that runs on NodeJS. 
 
 ## Run locally
 
@@ -30,5 +27,3 @@ npm install
 ```
 npm run dev
 ```
-
-5. Navigate to the website at localhost:8080
