@@ -1,4 +1,4 @@
-Personal website developed using a static site generator (Eleventy)
+Personal website developed using the Eleventy static site generator
 
 ## Details
 
